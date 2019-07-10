@@ -1,7 +1,7 @@
 requests
 youtube-dl
 git+git://github.com/google/chatbase-python.git
-pyrogram[fast]
+pyrogram[0.15.1]
 Pillow
 hachoir
 PyDrive
