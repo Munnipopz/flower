@@ -32,7 +32,7 @@ class Config(object):
     DB_SQLALCHEMY = "USERS.session"
     # proxy for accessing youtube-dl in GeoRestricted Areas
     # Get your own proxy from https://github.com/rg3/youtube-dl/issues/1091#issuecomment-230163061
-    HTTP_PROXY = os.environ.get("HTTP_PROXY", "")
+    HTTP_PROXY = os.environ.get("http_proxy="182.74.243.47:3128" youtube-dl -", "")
     # https://t.me/hevcbay/951
     OUO_IO_API_KEY = os.environ.get("OUO_IO_API_KEY", "")
     #mirro
